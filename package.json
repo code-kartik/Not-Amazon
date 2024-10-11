@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://code-kartik.github.io/Not-Amazon",
+  "homepage": "https://code-kartik.github.io/Not-Amazon/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
